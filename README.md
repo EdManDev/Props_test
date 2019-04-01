@@ -1,6 +1,6 @@
 # Props_test
 
-this is incedible
+this is incredible
 ```
 $ sudo shutdown -h now
 ```
